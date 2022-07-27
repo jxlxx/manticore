@@ -36,3 +36,40 @@
        url('../fonts/ibm-plex-mono-v6-latin-500italic.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/ibm-plex-mono-v6-latin-500italic.svg#IBMPlexMono') format('svg'); /* Legacy iOS */
 }
+
+
+/* JetBrainsMono-Regular - latin */
+@font-face {
+  font-family: 'Jet Brains Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/JetBrainsMono-Regular.ttf') ; /* IE9 Compat Modes */
+  src: local('Jet Brains Mono'), local('JetBrainsMono'),
+       url('../fonts/JetBrainsMono-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/JetBrainsMono-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+
+/* JetBrainsMono-Regular - latin */
+@font-face {
+  font-family: 'Jet Brains Mono';
+  font-style: bold;
+  font-weight: 500;
+  src: url('../fonts/JetBrainsMono-Bold.ttf') ; /* IE9 Compat Modes */
+  src: local('Jet Brains Mono'), local('JetBrainsMono'),
+       url('../fonts/JetBrainsMono-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/JetBrainsMono-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+/* JetBrainsMono-Regular - latin */
+@font-face {
+  font-family: 'Jet Brains Mono';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/JetBrainsMono-Italic.ttf') ; /* IE9 Compat Modes */
+  src: local('Jet Brains Mono'), local('JetBrainsMono'),
+       url('../fonts/JetBrainsMono-Italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/JetBrainsMono-Italic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+
